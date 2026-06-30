@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1,5;
+    color: #434455;
+}
+ul {
+    list-style-type: none;
+    text-decoration: none;
+   
+}
+button {
+    font-family: inherit;
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+span {
+    color: #4D5AE5 ;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+}

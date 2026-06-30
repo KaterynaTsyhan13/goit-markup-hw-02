@@ -1,0 +1,35 @@
+.header {
+    font-weight: 700;
+}
+
+.header-logo {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+}
+
+.header-links {
+    font-weight: 500;
+    color: #2E2F42;
+    
+
+}
+.header-links .link:hover,
+.header-links .link:focus{
+    color: #404BBF;
+}
+
+.adress {
+   font-style: normal;
+
+}
+.adress-links {
+    font-weight: 400;
+    color: #434455;
+}       
+.adress-links .link:hover,
+.adress-links .link:focus {
+    color: #404BBF;
+}
+   

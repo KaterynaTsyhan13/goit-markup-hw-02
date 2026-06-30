@@ -1,0 +1,23 @@
+.hero {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+
+.hero-tittle {
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    line-height: 1,07;
+}
+
+.herro-button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+
+}
+.herro-button:hover {
+    background-color: #404BBF;
+}
