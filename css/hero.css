@@ -7,7 +7,8 @@
     font-weight: 700;
     font-size: 56px;
     text-align: center;
-    line-height: 1,07;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .herro-button {
@@ -15,9 +16,11 @@
     font-weight: 500;
     color: #FFFFFF;
     cursor: pointer;
+    letter-spacing: 0.04em;
     
 
 }
-.herro-button:hover {
+.herro-button:hover ,
+.herro-button:focus {
     background-color: #404BBF;
 }

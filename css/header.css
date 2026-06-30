@@ -7,11 +7,14 @@
     font-family: 'Raleway', sans-serif;
     color: #2E2F42;
     font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .header-links {
     font-weight: 500;
     color: #2E2F42;
+    letter-spacing: 0.02em;
     
 
 }
@@ -27,9 +30,13 @@
 .adress-links {
     font-weight: 400;
     color: #434455;
+    letter-spacing: 0.02em;
 }       
 .adress-links .link:hover,
 .adress-links .link:focus {
     color: #404BBF;
+}
+span {
+    color: #4D5AE5;
 }
    
