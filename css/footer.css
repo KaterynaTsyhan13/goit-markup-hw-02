@@ -8,7 +8,7 @@
     font-weight: 700;
     font-size: 18px;
     color: #F4F4FD;
-    line-height: 1.17;
+    line-height: 1.33;
     letter-spacing: 0.03em;
 }
 
@@ -16,6 +16,6 @@
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
-span {
+.acsent-logo {
     color: #4d5ae5;
 }
